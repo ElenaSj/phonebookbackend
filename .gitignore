@@ -108,6 +108,9 @@ dist
 .docusaurus
 
 # Serverless directories
+node_modules
+.env
+
 .serverless/
 
 # FuseBox cache
